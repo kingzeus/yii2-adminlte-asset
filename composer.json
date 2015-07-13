@@ -12,6 +12,10 @@
         {
             "name": "Evgeniy Tkachenko",
             "email": "et.coder@gmail.com"
+        },
+        {
+            "name": "kingzeus",
+            "email": "kingzeus@gmail.com"
         }
     ],
     "require": {
@@ -23,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dmstr\\": ""
+            "kingzeus\\": ""
         }
     },
     "extra": {
