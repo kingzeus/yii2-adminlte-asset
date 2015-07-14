@@ -1,5 +1,5 @@
 <?php
-namespace dmstr\helpers;
+namespace kingzeus\helpers;
 
 use Yii;
 
@@ -15,8 +15,8 @@ class AdminLteHelper
      */
     public static function skinClass()
     {
-        /** @var \dmstr\web\AdminLteAsset $bundle */
-        $bundle = Yii::$app->assetManager->getBundle('dmstr\web\AdminLteAsset');
+        /** @var \kingzeus\web\AdminLteAsset $bundle */
+        $bundle = Yii::$app->assetManager->getBundle('kingzeus\web\AdminLteAsset');
 
         return $bundle->skin;
     }

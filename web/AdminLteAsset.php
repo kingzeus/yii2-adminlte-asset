@@ -1,5 +1,5 @@
 <?php
-namespace dmstr\web;
+namespace kingzeus\web;
 
 use yii\base\Exception;
 use yii\web\AssetBundle;
