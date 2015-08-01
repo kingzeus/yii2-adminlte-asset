@@ -14,8 +14,9 @@
             "email": "et.coder@gmail.com"
         },
         {
-            "name": "kingzeus",
-            "email": "kingzeus@gmail.com"
+      "name": "Yefei Fan",
+      "email": "fyfcnc@hotmail.com",
+      "homepage": "https://github.com/kingzeus/yii2-adminlte-asset"
         }
     ],
     "require": {
@@ -27,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kingzeus\\": ""
+            "kingzeus\\adminlteAsset\\": ""
         }
     },
     "extra": {
